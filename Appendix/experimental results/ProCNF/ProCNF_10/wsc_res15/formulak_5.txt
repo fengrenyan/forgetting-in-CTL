@@ -1,0 +1,13 @@
+P1=[y8,y10,y44,y31,y6,y4,y46,y18,y25,y28,y23,y49,y45,y48,y16]
+T=(y8\/ -y18\/y40)&(-y16\/y30\/y46)&(y13\/y31\/y46)&(y10\/y23\/y40)&(y10\/y13\/ -y23)&(-y4\/ -y28\/ -y44)&(-y13\/ -y31\/y49)&(-y6\/y25\/y40)&(-y8\/y45\/ -y48)&(-y32\/ -y46\/ -y48)
+UsedInf:121886
+UsedTime:0.029371872999999993
+Wall:0.05566668510437012
+Res===========: [formula_ind(start,[start],[[y10,y49,-y23,-y31]]),formula_ind(start,[start],[[y45,-y48]]),formula_ind(start,[start],[[z]]),formula_ind(start,[start],[[-y28,-y4,-y44]]),formula_ind(true,[true],[[y10,y49,-y23,-y31,-z]]),formula_ind(true,[true],[[y45,-y48,-z]]),formula_ind(true,[true],[[-z,-y4,-y28,-y44]])]
+ArcM===========: [pair(z,((-y28\/ -y4\/ -y44)&(y45\/ -y48))&(y10\/y49\/ -y23\/ -y31))]
+LenSNF=12
+LenSNF=7
+SAT: true
+Exist: 1
+...............................................
+SAT:true

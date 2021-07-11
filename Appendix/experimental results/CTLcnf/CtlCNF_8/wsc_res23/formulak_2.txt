@@ -1,0 +1,13 @@
+P1=[y50,y40,y27,y22,y37,y36,y13,y4,y33,y32,y31,y6,y8,y23,y18,y28,y38,y41,y29,y45,y5,y42,y25]
+T=((y8\/y30\/y46)&(-y23\/ -y29\/ -y50)&(y5\/ -y21\/y34)&(y27\/ -y29\/ -y50)&(-y4\/y22\/ -y41)&(-y41\/y42\/ -y49)&(-y15\/y49\/y50)&(-y15\/ -y34\/y38))&(~ * ((y30\/ -y35\/y36)&(y3\/ -y9\/ -y25)&(y18\/y24\/y28)&(y20\/ -y38\/y40)&(-y13\/ -y33\/ -y50)&(-y27\/y40\/y45)&(-y10\/y30\/ -y35)&(-y23\/y32\/y37)))&(^ * ((y10\/y12\/ -y49)&(-y19\/ -y38\/y47)&(-y34\/y46\/y47)&(-y22\/ -y38\/ -y47)&(-y6\/ -y24\/ -y41)&(y13\/ -y30\/y31)&(-y19\/y21\/ -y35)&(-y19\/ -y29\/ -y46)))
+UsedInf:6183558
+UsedTime:1.46438721
+Wall:2.2572243213653564
+Res===========: [formula_ind(ex,[z],[[x1],[y18,y28,-x2,-y41,-y6],[y18,y28,-y41,-y6]]),formula_ind(ax,[z],[[x2]]),formula_ind(ax,[z],[[y18,y28,-x1,-y41,-y6]]),formula_ind(ax,[z],[[y32,y37,-y23]]),formula_ind(ax,[z],[[y40,y45,-y27]]),formula_ind(ax,[z],[[-y13,-y33,-z]]),formula_ind(start,[start],[[y22,-y4,-y41]]),formula_ind(start,[start],[[y27,-y29]]),formula_ind(start,[start],[[z]]),formula_ind(start,[start],[[-x2,-y13,-y33]]),formula_ind(start,[start],[[-y23,-y29]]),formula_ind(true,[true],[[y18,y28,-x1,-x2,-y41,-y6]]),formula_ind(true,[true],[[y27,-y29,-z]]),formula_ind(true,[true],[[-x2,-y13,-y33,-z]]),formula_ind(true,[true],[[-x2,-y23,y32,y37]]),formula_ind(true,[true],[[-x2,-y27,y40,y45]]),formula_ind(true,[true],[[-y23,-y29,-z]]),formula_ind(true,[true],[[-z,-y4,y22,-y41]])]
+ArcM===========: []
+LenSNF=28
+LenSNF=18
+SAT: true
+Exist: 0
+...............................................
+SAT:true

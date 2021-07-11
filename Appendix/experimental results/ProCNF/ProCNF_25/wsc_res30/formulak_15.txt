@@ -1,0 +1,13 @@
+P1=[y42,y4,y47,y18,y13,y33,y26,y44,y20,y12,y24,y41,y19,y37,y50,y46,y38,y3,y25,y28,y49,y2,y21,y35,y6,y15,y9,y30,y10,y45]
+T=(-y2\/ -y4\/y45)&(y4\/ -y20\/ -y50)&(y21\/y25\/ -y47)&(y21\/ -y33\/y36)&(y9\/y19\/y31)&(y4\/y25\/y44)&(y3\/y6\/ -y15)&(-y2\/y7\/y27)&(-y11\/ -y12\/ -y42)&(-y10\/y16\/ -y17)&(y24\/y27\/ -y47)&(-y7\/ -y13\/ -y19)&(-y16\/y31\/y36)&(-y6\/y18\/y29)&(-y32\/y36\/y47)&(y28\/y30\/ -y43)&(y24\/ -y35\/y41)&(y6\/y49\/y50)&(-y8\/y32\/y50)&(-y36\/ -y37\/ -y44)&(y10\/ -y26\/ -y46)&(y21\/y38\/y41)&(y14\/y20\/ -y30)&(-y6\/ -y46\/ -y47)&(y20\/ -y21\/ -y50)
+UsedInf:628992
+UsedTime:0.15254552500000002
+Wall:0.153794527053833
+Res===========: [formula_ind(start,[start],[[y10,-y26,-y46]]),formula_ind(start,[start],[[y20,-y21,-y50]]),formula_ind(start,[start],[[y21,y25,-y47]]),formula_ind(start,[start],[[y21,y38,y41]]),formula_ind(start,[start],[[y21,-y33,-y37,-y44]]),formula_ind(start,[start],[[y24,y41,-y35]]),formula_ind(start,[start],[[y25,y4,y44]]),formula_ind(start,[start],[[y3,y6,-y15]]),formula_ind(start,[start],[[y4,-y20,-y50]]),formula_ind(start,[start],[[y45,-y2,-y4]]),formula_ind(start,[start],[[y49,y50,y6]]),formula_ind(start,[start],[[z]]),formula_ind(start,[start],[[-y46,-y47,-y6]]),formula_ind(true,[true],[[y21,-y33,-y37,-y44,-z]]),formula_ind(true,[true],[[-z,y10,-y26,-y46]]),formula_ind(true,[true],[[-z,y20,-y21,-y50]]),formula_ind(true,[true],[[-z,y21,y25,-y47]]),formula_ind(true,[true],[[-z,y21,y38,y41]]),formula_ind(true,[true],[[-z,y24,-y35,y41]]),formula_ind(true,[true],[[-z,y3,y6,-y15]]),formula_ind(true,[true],[[-z,y4,y25,y44]]),formula_ind(true,[true],[[-z,y4,-y20,-y50]]),formula_ind(true,[true],[[-z,y6,y49,y50]]),formula_ind(true,[true],[[-z,-y2,-y4,y45]]),formula_ind(true,[true],[[-z,-y6,-y46,-y47]])]
+ArcM===========: [pair(z,(((((((((((-y46\/ -y47\/ -y6)&(y45\/ -y2\/ -y4))&(y49\/y50\/y6))&(y4\/ -y20\/ -y50))&(y25\/y4\/y44))&(y3\/y6\/ -y15))&(y24\/y41\/ -y35))&(y21\/y38\/y41))&(y21\/y25\/ -y47))&(y20\/ -y21\/ -y50))&(y10\/ -y26\/ -y46))&(y21\/ -y33\/ -y37\/ -y44))]
+LenSNF=27
+LenSNF=25
+SAT: true
+Exist: 1
+...............................................
+SAT:true

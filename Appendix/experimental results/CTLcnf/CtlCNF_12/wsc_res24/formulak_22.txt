@@ -1,0 +1,13 @@
+P1=[y12,y44,y39,y15,y45,y33,y17,y14,y49,y3,y11,y26,y27,y1,y20,y18,y24,y5,y36,y43,y22,y13,y48,y21]
+T=((-y18\/ -y20\/ -y28)&(y6\/ -y33\/ -y47)&(-y11\/y23\/y41)&(y4\/ -y21\/y47)&(y6\/ -y41\/y43)&(-y35\/ -y41\/y48)&(y15\/y27\/ -y48)&(y5\/y28\/ -y49)&(-y14\/ -y44\/ -y47)&(-y5\/y24\/y32)&(-y38\/y39\/y48)&(y1\/y4\/y29))&(~ * ((y18\/y20\/ -y27)&(y31\/ -y33\/y41)&(y17\/y25\/ -y36)&(-y3\/y15\/ -y42)&(y22\/y46\/y47)&(y2\/y12\/y41)&(y21\/y42\/ -y43)&(-y25\/ -y29\/ -y35)&(y7\/ -y15\/y34)&(y13\/ -y33\/y41)&(y9\/ -y17\/ -y23)&(y16\/y37\/y47)))&(^ * ((-y19\/y25\/ -y35)&(-y10\/y22\/ -y23)&(y7\/ -y29\/y30)&(-y20\/y27\/ -y33)&(-y3\/y39\/y44)&(y1\/y26\/y35)&(-y2\/y33\/y41)&(y20\/ -y23\/y45)&(y20\/y34\/y38)&(y1\/y29\/ -y47)&(-y20\/y39\/ -y41)&(-y5\/y28\/ -y48)))
+UsedInf:337940474
+UsedTime:69.64483907399999
+Wall:155.975172996521
+Res===========: [formula_ind(ex,[z],[[x1],[y1,y13,y26,y48,-x2,-y33,-z],[y1,y13,y26,y48,-y33,-z],[y1,y20,y26,y45,y48,-y11,-z],[y13,y39,-x2,-y20,-y33],[y13,y39,-y20,-y33],[y27,-y20,-y33],[y39,y44,-y3],[-y18,-y20,-y48,-y5,-z]]),formula_ind(ax,[z],[[x2]]),formula_ind(ax,[z],[[y1,y13,y26,y48,-x1,-y33,-z]]),formula_ind(ax,[z],[[y13,y39,-x1,-y20,-y33]]),formula_ind(ax,[z],[[y15,y21,-y3,-y43]]),formula_ind(ax,[z],[[y18,y20,-y27]]),formula_ind(start,[start],[[y1,y13,y26,y48,-x1,-x2,-y33]]),formula_ind(start,[start],[[y1,y20,y26,y45,y48,-x1,-y11]]),formula_ind(start,[start],[[y15,y27,-y48]]),formula_ind(start,[start],[[y5,-y18,-y20,-y49]]),formula_ind(start,[start],[[z]]),formula_ind(start,[start],[[-x1,-y18,-y20,-y48,-y5]]),formula_ind(true,[true],[[y1,y13,y26,y48,-x1,-x2,-y33,-z]]),formula_ind(true,[true],[[y1,y20,y26,y45,y48,-x1,-y11,-z]]),formula_ind(true,[true],[[y13,y39,-x1,-x2,-y20,-y33]]),formula_ind(true,[true],[[y15,y21,-x2,-y3,-y43]]),formula_ind(true,[true],[[y5,-y18,-y20,-y49,-z]]),formula_ind(true,[true],[[-x1,-y18,-y20,-y48,-y5,-z]]),formula_ind(true,[true],[[-x1,-y20,y27,-y33]]),formula_ind(true,[true],[[-x1,-y3,y39,y44]]),formula_ind(true,[true],[[-x2,y18,y20,-y27]]),formula_ind(true,[true],[[-z,y15,y27,-y48]])]
+ArcM===========: []
+LenSNF=40
+LenSNF=22
+SAT: true
+Exist: 0
+...............................................
+SAT:true

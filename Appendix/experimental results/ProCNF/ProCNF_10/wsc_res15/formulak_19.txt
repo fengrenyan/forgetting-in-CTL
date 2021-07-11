@@ -1,0 +1,13 @@
+P1=[y37,y48,y22,y28,y16,y14,y45,y3,y35,y38,y36,y18,y46,y2,y29]
+T=(y13\/ -y16\/y35)&(-y13\/ -y36\/y38)&(-y1\/ -y2\/y29)&(y18\/y36\/ -y37)&(y20\/y26\/ -y28)&(-y3\/ -y30\/y46)&(-y14\/y45\/ -y48)&(-y14\/y22\/ -y36)&(y3\/ -y22\/y24)&(-y39\/y46\/y48)
+UsedInf:79320
+UsedTime:0.019478992
+Wall:0.04993748664855957
+Res===========: [formula_ind(start,[start],[[y18,y36]]),formula_ind(start,[start],[[y22,-y14,-y36]]),formula_ind(start,[start],[[y35,y38,-y16,-y36]]),formula_ind(start,[start],[[y45,-y14,-y48]]),formula_ind(start,[start],[[z]]),formula_ind(true,[true],[[y18,y36,-z]]),formula_ind(true,[true],[[y35,y38,-y16,-y36,-z]]),formula_ind(true,[true],[[-z,-y14,y22,-y36]]),formula_ind(true,[true],[[-z,-y14,y45,-y48]])]
+ArcM===========: [pair(z,(((y45\/ -y14\/ -y48)&(y22\/ -y14\/ -y36))&(y35\/y38\/ -y16\/ -y36))&(y18\/y36))]
+LenSNF=12
+LenSNF=9
+SAT: true
+Exist: 1
+...............................................
+SAT:true

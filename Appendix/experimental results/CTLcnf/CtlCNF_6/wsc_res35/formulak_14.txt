@@ -1,0 +1,13 @@
+P1=[y1,y11,y13,y14,y15,y16,y17,y2,y20,y22,y23,y25,y27,y28,y29,y30,y31,y35,y36,y4,y41,y42,y43,y44,y45,y46,y49,y5,y50,y6,y7,y8]
+T=((y22\/ -y30\/ -y49)&(-y8\/ -y15\/ -y22)&(-y14\/ -y36\/y44)&(y4\/ -y11\/ -y44)&(-y1\/y11\/ -y13)&(y1\/ -y23\/y50))&(~ * ((y2\/ -y27\/ -y29)&(-y1\/y4\/ -y35)&(-y36\/ -y41\/y43)&(-y16\/ -y20\/y30)&(-y23\/y30\/y45)&(-y5\/y17\/ -y46)))&(^ * ((y25\/y31\/ -y36)&(y7\/ -y13\/y42)&(y4\/ -y6\/ -y49)&(y4\/y28\/ -y35)&(-y6\/ -y8\/ -y44)&(-y1\/y4\/ -y23)))
+UsedInf:270676
+UsedTime:0.06155322999999999
+Wall:0.1904897689819336
+Res===========: [formula_ind(ex,[z],[[x1],[y25,y31,-y36],[y28,y4,-y35],[y4,-y23,-z],[y4,-y49,-y6],[y42,y7,-y13],[-y44,-y6,-y8]]),formula_ind(ax,[z],[[x2]]),formula_ind(ax,[z],[[y17,-y46,-y5]]),formula_ind(ax,[z],[[y2,-y27,-y29]]),formula_ind(ax,[z],[[y30,y45,-y23]]),formula_ind(ax,[z],[[y30,-y16,-y20]]),formula_ind(ax,[z],[[y4,-y35,-z]]),formula_ind(ax,[z],[[y43,-y36,-y41]]),formula_ind(start,[start],[[y11,-y13]]),formula_ind(start,[start],[[y22,-y30,-y49]]),formula_ind(start,[start],[[y4,-x1,-y23]]),formula_ind(start,[start],[[y4,-x2,-y35]]),formula_ind(start,[start],[[y4,-y11,-y44]]),formula_ind(start,[start],[[y44,-y14,-y36]]),formula_ind(start,[start],[[z]]),formula_ind(start,[start],[[-y15,-y22,-y8]]),formula_ind(true,[true],[[y11,-y13,-z]]),formula_ind(true,[true],[[y4,-x1,-y23,-z]]),formula_ind(true,[true],[[y4,-x2,-y35,-z]]),formula_ind(true,[true],[[-x1,y25,y31,-y36]]),formula_ind(true,[true],[[-x1,y4,y28,-y35]]),formula_ind(true,[true],[[-x1,y4,-y6,-y49]]),formula_ind(true,[true],[[-x1,y7,-y13,y42]]),formula_ind(true,[true],[[-x1,-y6,-y8,-y44]]),formula_ind(true,[true],[[-x2,y2,-y27,-y29]]),formula_ind(true,[true],[[-x2,-y16,-y20,y30]]),formula_ind(true,[true],[[-x2,-y23,y30,y45]]),formula_ind(true,[true],[[-x2,-y36,-y41,y43]]),formula_ind(true,[true],[[-x2,-y5,y17,-y46]]),formula_ind(true,[true],[[-z,y22,-y30,-y49]]),formula_ind(true,[true],[[-z,y4,-y11,-y44]]),formula_ind(true,[true],[[-z,-y14,-y36,y44]]),formula_ind(true,[true],[[-z,-y8,-y15,-y22]])]
+ArcM===========: []
+LenSNF=22
+LenSNF=33
+SAT: true
+Exist: 0
+...............................................
+SAT:true

@@ -1,0 +1,13 @@
+P1=[y30,y43,y13,y18,y45,y49,y50,y6,y35,y9,y29,y48,y25,y5,y37,y22,y16,y7,y28,y19]
+T=(y8\/ -y16\/ -y37)&(y5\/ -y19\/ -y32)&(y9\/y36\/ -y50)&(y12\/ -y13\/ -y35)&(-y7\/y29\/y50)&(y15\/ -y18\/y48)&(-y25\/y29\/ -y36)&(y32\/ -y43\/ -y50)&(y28\/ -y33\/ -y36)&(-y3\/y4\/y27)&(-y4\/y12\/ -y29)&(y28\/y35\/ -y40)&(y22\/ -y32\/y41)&(y33\/ -y36\/y43)&(-y2\/y22\/y29)&(-y3\/ -y8\/ -y35)&(-y9\/y11\/y21)&(y11\/y32\/ -y39)&(-y9\/y12\/y30)&(y26\/y37\/ -y39)&(-y12\/ -y25\/y38)&(-y19\/ -y20\/ -y49)&(y12\/y17\/y39)&(-y3\/ -y25\/y31)&(y21\/y33\/y42)&(y6\/y28\/ -y39)&(y3\/ -y6\/y50)&(y27\/ -y31\/ -y44)&(y7\/ -y22\/y38)&(-y6\/ -y39\/y48)&(-y13\/ -y19\/y32)&(-y17\/y26\/y30)&(y21\/ -y37\/y45)&(y3\/y37\/y49)&(y5\/ -y29\/y38)&(-y12\/ -y29\/y49)&(-y13\/ -y24\/ -y49)&(y32\/ -y38\/y45)&(-y8\/ -y10\/ -y11)&(-y7\/ -y24\/y48)
+UsedInf:853816521
+UsedTime:193.064762478
+Wall:194.09590792655945
+Res===========: [formula_ind(start,[start],[[y28,y43,y9,-y50]]),formula_ind(start,[start],[[y29,y50,-y7]]),formula_ind(start,[start],[[y29,y9,-y25,-y50]]),formula_ind(start,[start],[[y45,y5,y7,-y19,-y22]]),formula_ind(start,[start],[[y45,y5,-y13,-y19,-y25,-y35]]),formula_ind(start,[start],[[y45,y5,-y19,-y29]]),formula_ind(start,[start],[[y49,-y13,-y29,-y35]]),formula_ind(start,[start],[[y5,-y13,-y19]]),formula_ind(start,[start],[[y5,-y19,-y43,-y50]]),formula_ind(start,[start],[[y50,-y16,-y35,-y37,-y6]]),formula_ind(start,[start],[[z]]),formula_ind(true,[true],[[y28,y43,y9,-y50,-z]]),formula_ind(true,[true],[[y29,y9,-y25,-y50,-z]]),formula_ind(true,[true],[[y45,y5,y7,-y19,-y22,-z]]),formula_ind(true,[true],[[y45,y5,-y13,-y19,-y25,-y35,-z]]),formula_ind(true,[true],[[y45,y5,-y19,-y29,-z]]),formula_ind(true,[true],[[y49,-y13,-y29,-y35,-z]]),formula_ind(true,[true],[[y5,-y13,-y19,-z]]),formula_ind(true,[true],[[y5,-y19,-y43,-y50,-z]]),formula_ind(true,[true],[[y50,-y16,-y35,-y37,-y6,-z]]),formula_ind(true,[true],[[-z,-y7,y29,y50]])]
+ArcM===========: [pair(z,(((((((((y29\/y50\/ -y7)&(y50\/ -y16\/ -y35\/ -y37\/ -y6))&(y5\/ -y19\/ -y43\/ -y50))&(y5\/ -y13\/ -y19))&(y49\/ -y13\/ -y29\/ -y35))&(y45\/y5\/ -y19\/ -y29))&(y45\/y5\/ -y13\/ -y19\/ -y25\/ -y35))&(y45\/y5\/y7\/ -y19\/ -y22))&(y29\/y9\/ -y25\/ -y50))&(y28\/y43\/y9\/ -y50))]
+LenSNF=42
+LenSNF=21
+SAT: true
+Exist: 1
+...............................................
+SAT:true

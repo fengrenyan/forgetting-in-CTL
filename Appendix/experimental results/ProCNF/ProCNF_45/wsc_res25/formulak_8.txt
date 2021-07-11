@@ -1,0 +1,13 @@
+P1=[y43,y17,y34,y31,y3,y27,y22,y18,y47,y28,y29,y13,y49,y6,y1,y39,y9,y21,y23,y32,y41,y5,y37,y8,y26]
+T=(-y3\/ -y4\/ -y14)&(-y41\/ -y47\/ -y49)&(y6\/y36\/ -y43)&(y15\/y34\/ -y39)&(y4\/y31\/ -y41)&(-y1\/y26\/y45)&(y8\/y20\/y40)&(-y9\/y33\/y36)&(-y12\/ -y37\/ -y44)&(y8\/y32\/ -y46)&(-y5\/ -y9\/ -y33)&(-y11\/ -y17\/ -y39)&(y25\/ -y34\/y49)&(y16\/ -y24\/ -y49)&(y18\/y36\/y50)&(-y6\/y26\/ -y31)&(y25\/y33\/y44)&(-y3\/y20\/y42)&(y3\/y38\/ -y50)&(y15\/ -y22\/y49)&(-y17\/ -y19\/ -y48)&(y8\/ -y10\/y27)&(-y1\/ -y26\/y49)&(y14\/y26\/ -y34)&(-y27\/y29\/y35)&(-y16\/ -y17\/ -y47)&(y13\/y29\/y36)&(y13\/ -y31\/ -y50)&(-y9\/ -y18\/ -y40)&(y28\/ -y40\/y45)&(-y11\/y40\/y46)&(-y19\/ -y41\/y47)&(y15\/y25\/y36)&(-y23\/y27\/y49)&(y19\/y23\/ -y39)&(y30\/ -y34\/y36)&(-y1\/ -y44\/y49)&(y21\/ -y31\/ -y49)&(-y25\/y30\/y50)&(-y10\/ -y20\/ -y35)&(y20\/ -y35\/y41)&(-y4\/ -y37\/y38)&(y5\/y46\/ -y48)&(-y14\/y16\/y21)&(-y8\/ -y30\/y33)
+UsedInf:129331466
+UsedTime:29.597667293
+Wall:66.88731980323792
+Res===========: [formula_ind(start,[start],[[y13,y49,-y1,-y31,-y5,-y8,-y9]]),formula_ind(start,[start],[[y13,y49,-y31,-y34,-y5,-y8,-y9]]),formula_ind(start,[start],[[y21,y26,-y17,-y34,-y47]]),formula_ind(start,[start],[[y21,-y31,-y49]]),formula_ind(start,[start],[[y23,y47,-y39,-y41]]),formula_ind(start,[start],[[y26,y31,-y3,-y34,-y41]]),formula_ind(start,[start],[[y26,-y31,-y6]]),formula_ind(start,[start],[[y27,y49,-y23]]),formula_ind(start,[start],[[y49,-y1,-y26]]),formula_ind(start,[start],[[z]]),formula_ind(start,[start],[[-y41,-y47,-y49]]),formula_ind(true,[true],[[y13,y49,-y1,-y31,-y5,-y8,-y9,-z]]),formula_ind(true,[true],[[y13,y49,-y31,-y34,-y5,-y8,-y9,-z]]),formula_ind(true,[true],[[y21,y26,-y17,-y34,-y47,-z]]),formula_ind(true,[true],[[y23,y47,-y39,-y41,-z]]),formula_ind(true,[true],[[y26,y31,-y3,-y34,-y41,-z]]),formula_ind(true,[true],[[-z,y21,-y31,-y49]]),formula_ind(true,[true],[[-z,-y1,-y26,y49]]),formula_ind(true,[true],[[-z,-y23,y27,y49]]),formula_ind(true,[true],[[-z,-y41,-y47,-y49]]),formula_ind(true,[true],[[-z,-y6,y26,-y31]])]
+ArcM===========: [pair(z,(((((((((y26\/ -y31\/ -y6)&(-y41\/ -y47\/ -y49))&(y27\/y49\/ -y23))&(y49\/ -y1\/ -y26))&(y21\/ -y31\/ -y49))&(y26\/y31\/ -y3\/ -y34\/ -y41))&(y23\/y47\/ -y39\/ -y41))&(y21\/y26\/ -y17\/ -y34\/ -y47))&(y13\/y49\/ -y31\/ -y34\/ -y5\/ -y8\/ -y9))&(y13\/y49\/ -y1\/ -y31\/ -y5\/ -y8\/ -y9))]
+LenSNF=47
+LenSNF=21
+SAT: true
+Exist: 1
+...............................................
+SAT:true

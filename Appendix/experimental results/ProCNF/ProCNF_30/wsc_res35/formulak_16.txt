@@ -1,0 +1,13 @@
+P1=[y37,y48,y20,y6,y35,y38,y42,y5,y16,y47,y32,y15,y26,y43,y4,y41,y46,y49,y24,y9,y21,y27,y2,y31,y7,y36,y17,y13,y34,y29,y40,y30,y44,y45,y23]
+T=(y6\/y23\/y46)&(-y4\/ -y15\/y25)&(-y41\/y44\/ -y50)&(-y21\/y23\/y34)&(y13\/ -y30\/y36)&(y38\/y42\/y50)&(y37\/y46\/ -y47)&(-y15\/ -y37\/y43)&(-y2\/y9\/y28)&(-y2\/y30\/y45)&(y5\/y22\/ -y27)&(-y16\/ -y21\/ -y29)&(-y16\/y25\/ -y48)&(y2\/y17\/ -y29)&(-y18\/ -y36\/y48)&(y22\/y32\/y40)&(-y9\/ -y23\/y29)&(y20\/y31\/ -y46)&(y13\/y15\/ -y42)&(y9\/ -y10\/ -y21)&(y33\/y35\/ -y46)&(y1\/ -y5\/ -y44)&(-y4\/y30\/y31)&(-y7\/ -y26\/ -y28)&(y34\/y39\/ -y49)&(-y23\/y24\/y29)&(y7\/ -y18\/y38)&(-y2\/ -y19\/ -y25)&(y4\/ -y10\/ -y36)&(y40\/y42\/ -y49)
+UsedInf:538486
+UsedTime:0.124808468
+Wall:0.12578058242797852
+Res===========: [formula_ind(start,[start],[[y13,y15,-y42]]),formula_ind(start,[start],[[y13,y36,-y30]]),formula_ind(start,[start],[[y17,y2,-y29]]),formula_ind(start,[start],[[y20,y31,-y46]]),formula_ind(start,[start],[[y23,y34,-y21]]),formula_ind(start,[start],[[y23,y46,y6]]),formula_ind(start,[start],[[y24,y29,-y23]]),formula_ind(start,[start],[[y29,-y23,-y9]]),formula_ind(start,[start],[[y30,y31,-y4]]),formula_ind(start,[start],[[y30,y45,-y2]]),formula_ind(start,[start],[[y38,y42,y44,-y41]]),formula_ind(start,[start],[[y40,y42,-y49]]),formula_ind(start,[start],[[y43,-y15]]),formula_ind(start,[start],[[y9,-y2,-y26,-y7]]),formula_ind(start,[start],[[z]]),formula_ind(start,[start],[[-y16,-y21,-y29]]),formula_ind(true,[true],[[y38,y42,y44,-y41,-z]]),formula_ind(true,[true],[[y43,-y15,-z]]),formula_ind(true,[true],[[y9,-y2,-y26,-y7,-z]]),formula_ind(true,[true],[[-z,y13,y15,-y42]]),formula_ind(true,[true],[[-z,y13,-y30,y36]]),formula_ind(true,[true],[[-z,y2,y17,-y29]]),formula_ind(true,[true],[[-z,y20,y31,-y46]]),formula_ind(true,[true],[[-z,y40,y42,-y49]]),formula_ind(true,[true],[[-z,y6,y23,y46]]),formula_ind(true,[true],[[-z,-y16,-y21,-y29]]),formula_ind(true,[true],[[-z,-y2,y30,y45]]),formula_ind(true,[true],[[-z,-y21,y23,y34]]),formula_ind(true,[true],[[-z,-y23,y24,y29]]),formula_ind(true,[true],[[-z,-y4,y30,y31]]),formula_ind(true,[true],[[-z,-y9,-y23,y29]])]
+ArcM===========: [pair(z,((((((((((((((y29\/ -y23\/ -y9)&(y30\/y31\/ -y4))&(y24\/y29\/ -y23))&(y23\/y34\/ -y21))&(y30\/y45\/ -y2))&(-y16\/ -y21\/ -y29))&(y23\/y46\/y6))&(y40\/y42\/ -y49))&(y20\/y31\/ -y46))&(y17\/y2\/ -y29))&(y13\/y36\/ -y30))&(y13\/y15\/ -y42))&(y9\/ -y2\/ -y26\/ -y7))&(y43\/ -y15))&(y38\/y42\/y44\/ -y41))]
+LenSNF=32
+LenSNF=31
+SAT: true
+Exist: 1
+...............................................
+SAT:true

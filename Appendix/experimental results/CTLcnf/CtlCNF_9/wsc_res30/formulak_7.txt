@@ -1,0 +1,13 @@
+P1=[y32,y33,y41,y6,y10,y45,y20,y4,y29,y22,y42,y39,y34,y40,y50,y13,y15,y11,y2,y21,y46,y17,y43,y1,y30,y14,y18,y48,y5,y3]
+T=((y4\/y21\/ -y47)&(-y18\/y30\/ -y43)&(y18\/y20\/ -y34)&(-y1\/y24\/ -y45)&(y33\/y40\/y50)&(y25\/y38\/y41)&(-y8\/ -y23\/ -y25)&(-y10\/y30\/y39)&(-y5\/y41\/y50))&(~ * ((y7\/ -y11\/ -y22)&(-y4\/y23\/ -y41)&(-y26\/ -y47\/y50)&(-y13\/y46\/y50)&(y8\/y11\/ -y21)&(-y20\/ -y36\/y40)&(y5\/ -y15\/ -y39)&(y9\/ -y33\/y41)&(-y17\/y37\/ -y42)))&(^ * ((y2\/ -y16\/ -y42)&(y14\/ -y49\/y50)&(-y6\/ -y23\/ -y27)&(-y26\/ -y39\/y48)&(y30\/y34\/ -y45)&(-y2\/y29\/ -y34)&(y3\/y33\/ -y49)&(y3\/ -y9\/ -y17)&(y29\/y32\/ -y39)))
+UsedInf:543446
+UsedTime:0.13368581499999999
+Wall:0.13524198532104492
+Res===========: [formula_ind(ex,[z],[[x1],[y29,-y2,-y34],[y3,y41,-x2,-y17,-y33],[y3,y41,-y17,-y33],[y30,y34,-y45]]),formula_ind(ax,[z],[[x2]]),formula_ind(ax,[z],[[y3,y41,-x1,-y17,-y33]]),formula_ind(ax,[z],[[y46,y50,-y13]]),formula_ind(ax,[z],[[y5,-y15,-y39]]),formula_ind(start,[start],[[y18,y20,-y34]]),formula_ind(start,[start],[[y30,y39,-y10]]),formula_ind(start,[start],[[y30,-y18,-y43]]),formula_ind(start,[start],[[y33,y40,y50]]),formula_ind(start,[start],[[y41,y50,-y5]]),formula_ind(start,[start],[[z]]),formula_ind(true,[true],[[y3,y41,-x1,-x2,-y17,-y33]]),formula_ind(true,[true],[[-x1,y30,y34,-y45]]),formula_ind(true,[true],[[-x1,-y2,y29,-y34]]),formula_ind(true,[true],[[-x2,y5,-y15,-y39]]),formula_ind(true,[true],[[-x2,-y13,y46,y50]]),formula_ind(true,[true],[[-z,y18,y20,-y34]]),formula_ind(true,[true],[[-z,y33,y40,y50]]),formula_ind(true,[true],[[-z,-y10,y30,y39]]),formula_ind(true,[true],[[-z,-y18,y30,-y43]]),formula_ind(true,[true],[[-z,-y5,y41,y50]])]
+ArcM===========: [pair(z,(((((((((y41\/y50\/ -y5)&(y30\/ -y18\/ -y43))&(y30\/y39\/ -y10))&(y33\/y40\/y50))&(y18\/y20\/ -y34))&(~ * (y5\/ -y15\/ -y39)))&(~ * (y46\/y50\/ -y13)))&(~ * (y3\/y41\/ -x1\/ -y17\/ -y33)))&(~ *x2))&(^ * (x1&(y29\/ -y2\/ -y34)&(y3\/y41\/ -x2\/ -y17\/ -y33)&(y3\/y41\/ -y17\/ -y33)&(y30\/y34\/ -y45))))]
+LenSNF=31
+LenSNF=21
+SAT: true
+Exist: 0
+...............................................
+SAT:true

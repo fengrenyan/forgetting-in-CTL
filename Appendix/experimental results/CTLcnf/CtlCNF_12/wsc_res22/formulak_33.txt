@@ -1,0 +1,13 @@
+P1=[y12,y10,y29,y3,y45,y9,y35,y19,y5,y26,y30,y15,y47,y14,y6,y13,y23,y24,y8,y32,y16,y49]
+T=((y6\/y7\/y50)&(y18\/y24\/ -y39)&(y5\/ -y29\/ -y33)&(-y11\/ -y44\/ -y48)&(y26\/y39\/y49)&(-y13\/y29\/ -y41)&(y4\/y16\/y37)&(y16\/y35\/y42)&(-y9\/ -y21\/y33)&(-y10\/ -y46\/y48)&(-y10\/ -y36\/ -y41)&(y14\/y16\/y38))&(~ * ((-y22\/ -y47\/ -y49)&(-y9\/y14\/y33)&(-y22\/ -y39\/y50)&(-y34\/y45\/y47)&(-y22\/y32\/ -y34)&(-y8\/ -y9\/y38)&(y6\/y16\/y33)&(-y33\/y34\/ -y46)&(-y24\/y34\/ -y39)&(-y31\/ -y42\/ -y47)&(y6\/ -y39\/ -y41)&(y24\/ -y49\/ -y50)))&(^ * ((y3\/y23\/ -y28)&(y5\/y25\/y34)&(y2\/ -y14\/ -y39)&(y12\/ -y17\/y48)&(y8\/y27\/ -y46)&(-y9\/y35\/y38)&(y15\/y32\/ -y48)&(-y24\/ -y25\/ -y49)&(-y16\/ -y20\/y33)&(y19\/y23\/ -y33)&(y19\/y20\/ -y32)&(y30\/y33\/ -y48)))
+UsedInf:32416478
+UsedTime:7.469441617
+Wall:22.041999101638794
+Res===========: [formula_ind(ex,[z],[[x1],[y14,y19,y23,-x2,-y9],[y14,y19,y23,-y9],[y16,y19,y23,y6],[y16,y19,y23,y6,-x2],[y19,y23,-y16,-y32],[y19,y5,-y16,-y29,-y32,-z],[y45,y47,y5,-x2,-y24,-y49],[y45,y47,y5,-y24,-y49]]),formula_ind(ax,[z],[[x2]]),formula_ind(ax,[z],[[y14,y19,y23,-x1,-y9]]),formula_ind(ax,[z],[[y14,y5,-y29,-y9,-z]]),formula_ind(ax,[z],[[y16,y19,y23,y6,-x1]]),formula_ind(ax,[z],[[y16,y5,y6,-y29,-z]]),formula_ind(ax,[z],[[y26,y45,y47,y49,-y24,-z]]),formula_ind(ax,[z],[[y45,y47,y5,-x1,-y24,-y49]]),formula_ind(start,[start],[[y14,y5,-x2,-y29,-y9]]),formula_ind(start,[start],[[y16,y5,y6,-x2,-y29]]),formula_ind(start,[start],[[y19,y5,-x1,-y16,-y29,-y32]]),formula_ind(start,[start],[[y26,y45,y47,y49,-x2,-y24]]),formula_ind(start,[start],[[z]]),formula_ind(true,[true],[[y14,y19,y23,-x1,-x2,-y9]]),formula_ind(true,[true],[[y14,y5,-x2,-y29,-y9,-z]]),formula_ind(true,[true],[[y16,y19,y23,y6,-x1,-x2]]),formula_ind(true,[true],[[y16,y5,y6,-x2,-y29,-z]]),formula_ind(true,[true],[[y19,y23,-x1,-y16,-y32]]),formula_ind(true,[true],[[y19,y5,-x1,-y16,-y29,-y32,-z]]),formula_ind(true,[true],[[y26,y45,y47,y49,-x2,-y24,-z]]),formula_ind(true,[true],[[y45,y47,y5,-x1,-x2,-y24,-y49]])]
+ArcM===========: []
+LenSNF=40
+LenSNF=21
+SAT: true
+Exist: 0
+...............................................
+SAT:true

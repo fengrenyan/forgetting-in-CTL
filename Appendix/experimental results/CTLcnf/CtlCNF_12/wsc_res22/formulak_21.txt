@@ -1,0 +1,13 @@
+P1=[y15,y20,y23,y37,y33,y21,y12,y32,y13,y29,y1,y4,y49,y39,y45,y25,y47,y7,y11,y28,y38,y43]
+T=((-y26\/ -y32\/ -y50)&(-y1\/ -y20\/ -y21)&(-y14\/ -y25\/ -y33)&(-y17\/y25\/y40)&(y1\/ -y2\/y43)&(y13\/y34\/ -y42)&(-y13\/y30\/y41)&(y37\/y38\/ -y41)&(y4\/y15\/ -y29)&(y2\/y18\/y42)&(y11\/ -y35\/ -y49)&(y4\/ -y30\/ -y43))&(~ * ((-y21\/ -y30\/ -y42)&(-y18\/y39\/ -y47)&(-y4\/y18\/ -y19)&(y15\/y20\/ -y33)&(-y10\/y12\/y39)&(y4\/y41\/y43)&(-y11\/ -y24\/y47)&(y21\/ -y26\/y34)&(-y8\/ -y37\/ -y44)&(y2\/y8\/ -y28)&(-y21\/y33\/ -y36)&(y9\/ -y17\/y33)))&(^ * ((-y21\/y33\/y41)&(-y20\/y27\/ -y39)&(y7\/y32\/y38)&(y23\/y42\/y46)&(-y2\/y11\/y32)&(y3\/y4\/y7)&(-y11\/y21\/ -y49)&(-y2\/ -y10\/y18)&(-y14\/ -y15\/y50)&(-y36\/y45\/y48)&(-y3\/ -y6\/ -y38)&(-y20\/y32\/y37)))
+UsedInf:128960047
+UsedTime:31.169602727
+Wall:36.566160917282104
+Res===========: [formula_ind(ex,[z],[[x1],[y11,y32,y37,y38,y39,-x2,-y13,-y21,-y47,-z],[y11,y32,y37,y38,y39,-y13,-y21,-y47,-z],[y21,-y11,-y49],[y32,y37,-y20],[y32,y38,y7],[y33,y37,y38,-y21,-z]]),formula_ind(ax,[z],[[x2]]),formula_ind(ax,[z],[[y1,y37,y38,y39,y43,-y13,-y21,-y47,-z]]),formula_ind(ax,[z],[[y11,y32,y37,y38,y39,-x1,-y13,-y21,-y47,-z]]),formula_ind(ax,[z],[[y37,y38,y4,y43,-z]]),formula_ind(start,[start],[[y1,y37,y38,y39,y43,-x2,-y13,-y21,-y47]]),formula_ind(start,[start],[[y11,y32,y37,y38,y39,-x1,-x2,-y13,-y21,-y47]]),formula_ind(start,[start],[[y33,y37,y38,-x1,-y21]]),formula_ind(start,[start],[[y37,y38,y4,y43,-x2]]),formula_ind(start,[start],[[y37,y38,y4,-y13,-y43]]),formula_ind(start,[start],[[z]]),formula_ind(start,[start],[[-y1,-y20,-y21]]),formula_ind(true,[true],[[y1,y37,y38,y39,y43,-x2,-y13,-y21,-y47,-z]]),formula_ind(true,[true],[[y11,y32,y37,y38,y39,-x1,-x2,-y13,-y21,-y47,-z]]),formula_ind(true,[true],[[y33,y37,y38,-x1,-y21,-z]]),formula_ind(true,[true],[[y37,y38,y4,y43,-x2,-z]]),formula_ind(true,[true],[[y37,y38,y4,-y13,-y43,-z]]),formula_ind(true,[true],[[-x1,y7,y32,y38]]),formula_ind(true,[true],[[-x1,-y11,y21,-y49]]),formula_ind(true,[true],[[-x1,-y20,y32,y37]]),formula_ind(true,[true],[[-z,-y1,-y20,-y21]])]
+ArcM===========: []
+LenSNF=40
+LenSNF=21
+SAT: true
+Exist: 0
+...............................................
+SAT:true

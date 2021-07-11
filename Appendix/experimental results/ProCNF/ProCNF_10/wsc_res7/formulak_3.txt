@@ -1,0 +1,13 @@
+P1=[y7,y9,y34,y42,y1,y36,y12]
+T=(y7\/ -y17\/y26)&(y9\/ -y12\/y34)&(y9\/ -y42\/ -y43)&(y1\/ -y8\/ -y42)&(y9\/y12\/y15)&(y15\/ -y33\/ -y48)&(-y7\/y18\/ -y29)&(y36\/y40\/ -y41)&(-y12\/ -y35\/ -y42)&(-y7\/y20\/ -y38)
+UsedInf:160359
+UsedTime:0.01387990900000001
+Wall:0.013903379440307617
+Res===========: [formula_ind(start,[start],[[y34,y9,-y12]]),formula_ind(start,[start],[[z]]),formula_ind(true,[true],[[-z,y9,-y12,y34]])]
+ArcM===========: [pair(z,y34\/y9\/ -y12)]
+LenSNF=12
+LenSNF=3
+SAT: true
+Exist: 1
+...............................................
+SAT:true

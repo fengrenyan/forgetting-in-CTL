@@ -1,0 +1,13 @@
+P1=[y10,y12,y13,y14,y15,y17,y18,y19,y22,y23,y24,y25,y26,y27,y28,y29,y3,y30,y33,y34,y36,y39,y40,y42,y45,y47,y48,y49,y50,y6,y7]
+T=((y7\/y12\/y40)&(y30\/ -y47\/ -y49)&(y6\/y12\/ -y40)&(y7\/ -y24\/y27)&(-y3\/ -y28\/ -y36))&(~ * ((y13\/ -y22\/y25)&(y10\/y12\/y33)&(y6\/ -y10\/y27)&(-y14\/ -y19\/ -y22)&(-y3\/y17\/ -y34)))&(^ * ((-y3\/y18\/y26)&(-y15\/ -y28\/y48)&(-y39\/y45\/y50)&(y19\/y23\/ -y42)&(-y10\/y26\/ -y29)))
+UsedInf:131910
+UsedTime:0.032036461
+Wall:0.07127761840820312
+Res===========: [formula_ind(ex,[z],[[x1],[y12,y26,y33,-x2,-y29],[y12,y26,y33,-y29],[y18,y26,-y3],[y19,y23,-y42],[y26,-y29,-z],[y45,y50,-y39],[y48,-y15,-y28]]),formula_ind(ax,[z],[[x2]]),formula_ind(ax,[z],[[y12,y26,y33,-x1,-y29]]),formula_ind(ax,[z],[[y12,y27,y33,y6]]),formula_ind(ax,[z],[[y13,y25,-y22]]),formula_ind(ax,[z],[[y17,-y3,-y34]]),formula_ind(ax,[z],[[y27,y6,-z]]),formula_ind(ax,[z],[[-y14,-y19,-y22]]),formula_ind(start,[start],[[y12,y40,y7]]),formula_ind(start,[start],[[y12,y6,-y40]]),formula_ind(start,[start],[[y26,-x1,-y29]]),formula_ind(start,[start],[[y27,y6,-x2]]),formula_ind(start,[start],[[y27,y7,-y24]]),formula_ind(start,[start],[[y30,-y47,-y49]]),formula_ind(start,[start],[[z]]),formula_ind(start,[start],[[-y28,-y3,-y36]]),formula_ind(true,[true],[[y12,y26,y33,-x1,-x2,-y29]]),formula_ind(true,[true],[[y12,y27,y33,y6,-x2]]),formula_ind(true,[true],[[y26,-x1,-y29,-z]]),formula_ind(true,[true],[[y27,y6,-x2,-z]]),formula_ind(true,[true],[[-x1,y19,y23,-y42]]),formula_ind(true,[true],[[-x1,-y15,-y28,y48]]),formula_ind(true,[true],[[-x1,-y3,y18,y26]]),formula_ind(true,[true],[[-x1,-y39,y45,y50]]),formula_ind(true,[true],[[-x2,y13,-y22,y25]]),formula_ind(true,[true],[[-x2,-y14,-y19,-y22]]),formula_ind(true,[true],[[-x2,-y3,y17,-y34]]),formula_ind(true,[true],[[-z,y30,-y47,-y49]]),formula_ind(true,[true],[[-z,y6,y12,-y40]]),formula_ind(true,[true],[[-z,y7,y12,y40]]),formula_ind(true,[true],[[-z,y7,-y24,y27]]),formula_ind(true,[true],[[-z,-y3,-y28,-y36]])]
+ArcM===========: []
+LenSNF=19
+LenSNF=32
+SAT: true
+Exist: 0
+...............................................
+SAT:true

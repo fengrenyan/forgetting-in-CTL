@@ -1,0 +1,13 @@
+P1=[y2,y13,y8,y14,y26,y49,y38,y11,y27,y28,y30,y35,y21,y33,y7,y17,y22,y19,y48,y23,y29,y45,y32,y34,y9,y43,y25,y12,y3,y24]
+T=((-y2\/y27\/ -y40)&(-y23\/ -y30\/y38)&(-y9\/ -y22\/ -y27)&(y8\/ -y17\/y48)&(y11\/ -y38\/y45)&(y7\/ -y21\/y33))&(~ * ((y24\/ -y26\/ -y40)&(y3\/y24\/ -y45)&(y8\/ -y24\/y28)&(-y13\/ -y19\/ -y43)&(y25\/y32\/y49)&(-y3\/ -y29\/y43)))&(^ * ((-y26\/ -y32\/y45)&(y11\/y34\/y49)&(y29\/ -y49\/y50)&(y19\/y21\/ -y35)&(-y12\/y19\/ -y22)&(-y14\/y24\/y26)))
+UsedInf:83638
+UsedTime:0.022537845
+Wall:0.06889510154724121
+Res===========: [formula_ind(ex,[z],[[x1],[y11,y34,y49],[y19,y21,-y35],[y19,-y12,-y22],[y24,y26,-y14],[y45,-y26,-y32]]),formula_ind(ax,[z],[[x2]]),formula_ind(ax,[z],[[y24,y3,-y45]]),formula_ind(ax,[z],[[y25,y32,y49]]),formula_ind(ax,[z],[[y28,y8,-y24]]),formula_ind(ax,[z],[[y43,-y29,-y3]]),formula_ind(ax,[z],[[-y13,-y19,-y43]]),formula_ind(start,[start],[[y11,y45,-y38]]),formula_ind(start,[start],[[y33,y7,-y21]]),formula_ind(start,[start],[[y38,-y23,-y30]]),formula_ind(start,[start],[[y48,y8,-y17]]),formula_ind(start,[start],[[z]]),formula_ind(start,[start],[[-y22,-y27,-y9]]),formula_ind(true,[true],[[-x1,y11,y34,y49]]),formula_ind(true,[true],[[-x1,y19,y21,-y35]]),formula_ind(true,[true],[[-x1,-y12,y19,-y22]]),formula_ind(true,[true],[[-x1,-y14,y24,y26]]),formula_ind(true,[true],[[-x1,-y26,-y32,y45]]),formula_ind(true,[true],[[-x2,y25,y32,y49]]),formula_ind(true,[true],[[-x2,y3,y24,-y45]]),formula_ind(true,[true],[[-x2,y8,-y24,y28]]),formula_ind(true,[true],[[-x2,-y13,-y19,-y43]]),formula_ind(true,[true],[[-x2,-y3,-y29,y43]]),formula_ind(true,[true],[[-z,y11,-y38,y45]]),formula_ind(true,[true],[[-z,y7,-y21,y33]]),formula_ind(true,[true],[[-z,y8,-y17,y48]]),formula_ind(true,[true],[[-z,-y23,-y30,y38]]),formula_ind(true,[true],[[-z,-y9,-y22,-y27]])]
+ArcM===========: [pair(z,(((((((((((-y22\/ -y27\/ -y9)&(y38\/ -y23\/ -y30))&(y48\/y8\/ -y17))&(y33\/y7\/ -y21))&(y11\/y45\/ -y38))&(~ * (-y13\/ -y19\/ -y43)))&(~ * (y43\/ -y29\/ -y3)))&(~ * (y28\/y8\/ -y24)))&(~ * (y25\/y32\/y49)))&(~ * (y24\/y3\/ -y45)))&(~ *x2))&(^ * (x1&(y11\/y34\/y49)&(y19\/y21\/ -y35)&(y19\/ -y12\/ -y22)&(y24\/y26\/ -y14)&(y45\/ -y26\/ -y32)))),pair(x1,((((y45\/ -y26\/ -y32)&(y24\/y26\/ -y14))&(y19\/ -y12\/ -y22))&(y19\/y21\/ -y35))&(y11\/y34\/y49)),pair(x2,((((y43\/ -y29\/ -y3)&(-y13\/ -y19\/ -y43))&(y28\/y8\/ -y24))&(y24\/y3\/ -y45))&(y25\/y32\/y49))]
+LenSNF=22
+LenSNF=28
+SAT: true
+Exist: 1
+...............................................
+SAT:true

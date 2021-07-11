@@ -1,0 +1,13 @@
+P1=[y46,y27,y35,y33,y47,y7,y38,y11,y50,y44,y30,y16,y49,y26,y4]
+T=(y29\/y44\/y50)&(y33\/y38\/y50)&(-y16\/ -y41\/y46)&(y11\/ -y35\/y49)&(y11\/ -y27\/y50)&(-y4\/y5\/y30)&(-y7\/ -y26\/ -y44)&(y3\/ -y21\/ -y47)&(-y16\/ -y31\/y33)&(-y1\/y11\/y46)
+UsedInf:59490
+UsedTime:0.014536975000000008
+Wall:0.0474245548248291
+Res===========: [formula_ind(start,[start],[[y11,y49,-y35]]),formula_ind(start,[start],[[y11,y50,-y27]]),formula_ind(start,[start],[[y33,y38,y50]]),formula_ind(start,[start],[[z]]),formula_ind(start,[start],[[-y26,-y44,-y7]]),formula_ind(true,[true],[[-z,y11,-y27,y50]]),formula_ind(true,[true],[[-z,y11,-y35,y49]]),formula_ind(true,[true],[[-z,y33,y38,y50]]),formula_ind(true,[true],[[-z,-y7,-y26,-y44]])]
+ArcM===========: [pair(z,(((-y26\/ -y44\/ -y7)&(y33\/y38\/y50))&(y11\/y49\/ -y35))&(y11\/y50\/ -y27))]
+LenSNF=12
+LenSNF=9
+SAT: true
+Exist: 1
+...............................................
+SAT:true

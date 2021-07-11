@@ -1,0 +1,13 @@
+P1=[y1,y10,y12,y13,y14,y15,y17,y18,y19,y2,y20,y22,y24,y28,y29,y30,y31,y32,y33,y37,y39,y40,y41,y44,y45,y46,y47,y5,y50,y7,y8,y9]
+T=((-y7\/y46\/ -y50)&(y17\/y45\/ -y50)&(-y13\/y39\/y41)&(y5\/y28\/y37)&(y7\/ -y28\/y45)&(-y5\/y9\/y13))&(~ * ((-y8\/ -y10\/y29)&(-y30\/ -y40\/y44)&(y9\/ -y18\/ -y32)&(-y15\/y39\/ -y47)&(y10\/y24\/y50)&(-y2\/ -y14\/y37)))&(^ * ((-y10\/y12\/ -y31)&(y1\/y20\/ -y50)&(-y2\/y17\/y30)&(-y1\/y19\/ -y28)&(y2\/y33\/y47)&(-y7\/ -y22\/y29)))
+UsedInf:78207
+UsedTime:0.019547508000000005
+Wall:0.0332341194152832
+Res===========: [formula_ind(ex,[z],[[x1],[y12,-y10,-y31],[y17,y30,-y2],[y19,y20,-y28,-y50],[y19,-y28,-z],[y2,y33,y47],[y29,-y22,-y7]]),formula_ind(ax,[z],[[x2]]),formula_ind(ax,[z],[[y10,y24,y50]]),formula_ind(ax,[z],[[y29,-y10,-y8]]),formula_ind(ax,[z],[[y37,-y14,-y2]]),formula_ind(ax,[z],[[y39,-y15,-y47]]),formula_ind(ax,[z],[[y44,-y30,-y40]]),formula_ind(ax,[z],[[y9,-y18,-y32]]),formula_ind(start,[start],[[y13,y9,-y5]]),formula_ind(start,[start],[[y17,y45,-y50]]),formula_ind(start,[start],[[y19,-x1,-y28]]),formula_ind(start,[start],[[y28,y37,y5]]),formula_ind(start,[start],[[y39,y41,-y13]]),formula_ind(start,[start],[[y45,y7,-y28]]),formula_ind(start,[start],[[y46,-y50,-y7]]),formula_ind(start,[start],[[z]]),formula_ind(true,[true],[[y19,y20,-x1,-y28,-y50]]),formula_ind(true,[true],[[y19,-x1,-y28,-z]]),formula_ind(true,[true],[[-x1,y2,y33,y47]]),formula_ind(true,[true],[[-x1,-y10,y12,-y31]]),formula_ind(true,[true],[[-x1,-y2,y17,y30]]),formula_ind(true,[true],[[-x1,-y7,-y22,y29]]),formula_ind(true,[true],[[-x2,y10,y24,y50]]),formula_ind(true,[true],[[-x2,y9,-y18,-y32]]),formula_ind(true,[true],[[-x2,-y15,y39,-y47]]),formula_ind(true,[true],[[-x2,-y2,-y14,y37]]),formula_ind(true,[true],[[-x2,-y30,-y40,y44]]),formula_ind(true,[true],[[-x2,-y8,-y10,y29]]),formula_ind(true,[true],[[-z,y17,y45,-y50]]),formula_ind(true,[true],[[-z,y5,y28,y37]]),formula_ind(true,[true],[[-z,y7,-y28,y45]]),formula_ind(true,[true],[[-z,-y13,y39,y41]]),formula_ind(true,[true],[[-z,-y5,y9,y13]]),formula_ind(true,[true],[[-z,-y7,y46,-y50]])]
+ArcM===========: [pair(x2,(((((y29\/ -y10\/ -y8)&(y44\/ -y30\/ -y40))&(y37\/ -y14\/ -y2))&(y39\/ -y15\/ -y47))&(y9\/ -y18\/ -y32))&(y10\/y24\/y50))]
+LenSNF=22
+LenSNF=34
+SAT: true
+Exist: 0
+...............................................
+SAT:true

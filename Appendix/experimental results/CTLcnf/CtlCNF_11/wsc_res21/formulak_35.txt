@@ -1,0 +1,13 @@
+P1=[y24,y48,y5,y19,y35,y38,y36,y25,y42,y23,y20,y18,y4,y11,y3,y47,y17,y6,y45,y1,y2]
+T=((y4\/ -y22\/y45)&(y25\/y40\/y47)&(-y21\/y24\/ -y26)&(-y6\/ -y34\/y38)&(-y5\/ -y34\/y40)&(-y11\/y12\/ -y22)&(-y3\/ -y33\/ -y49)&(y1\/y20\/ -y48)&(y4\/y11\/ -y40)&(-y4\/ -y5\/ -y40)&(y15\/y27\/y37))&(~ * ((y19\/ -y25\/ -y35)&(-y25\/ -y27\/ -y32)&(y18\/y19\/y20)&(y16\/ -y22\/y48)&(y24\/y37\/y48)&(y11\/ -y12\/y29)&(y2\/y38\/y47)&(y11\/y28\/ -y34)&(y23\/ -y34\/y36)&(-y13\/y25\/y40)&(y21\/ -y36\/y40)))&(^ * ((y20\/ -y44\/y47)&(-y15\/y21\/y48)&(-y21\/y36\/y46)&(-y2\/y23\/y37)&(y28\/ -y42\/ -y43)&(-y11\/ -y43\/ -y45)&(y2\/ -y17\/ -y34)&(-y15\/ -y19\/ -y29)&(y9\/ -y13\/ -y27)&(y7\/ -y33\/ -y48)&(y34\/y42\/y43)))
+UsedInf:13842303
+UsedTime:3.406328539
+Wall:10.936959028244019
+Res===========: [formula_ind(ex,[z],[[x1],[y2,y42,-y11,-y17,-y45],[y23,y36,y42,-x2,-y11,-y45],[y23,y36,y42,-y11,-y45],[y38,y42,-y11,-y45,-y6,-z],[y42,-y11,-y4,-y45,-y5,-z]]),formula_ind(ax,[z],[[x2]]),formula_ind(ax,[z],[[y18,y19,y20]]),formula_ind(ax,[z],[[y19,-y25,-y35]]),formula_ind(ax,[z],[[y2,y38,y47]]),formula_ind(ax,[z],[[y23,y36,y42,-x1,-y11,-y45]]),formula_ind(start,[start],[[y1,y20,-y48]]),formula_ind(start,[start],[[y11,y25,y4,y47]]),formula_ind(start,[start],[[y25,y47,-y4,-y5]]),formula_ind(start,[start],[[y38,y42,-x1,-y11,-y45,-y6]]),formula_ind(start,[start],[[y42,-x1,-y11,-y4,-y45,-y5]]),formula_ind(start,[start],[[z]]),formula_ind(true,[true],[[y11,y25,y4,y47,-z]]),formula_ind(true,[true],[[y2,y42,-x1,-y11,-y17,-y45]]),formula_ind(true,[true],[[y23,y36,y42,-x1,-x2,-y11,-y45]]),formula_ind(true,[true],[[y25,y47,-y4,-y5,-z]]),formula_ind(true,[true],[[y38,y42,-x1,-y11,-y45,-y6,-z]]),formula_ind(true,[true],[[y42,-x1,-y11,-y4,-y45,-y5,-z]]),formula_ind(true,[true],[[-x2,y18,y19,y20]]),formula_ind(true,[true],[[-x2,y19,-y25,-y35]]),formula_ind(true,[true],[[-x2,y2,y38,y47]]),formula_ind(true,[true],[[-z,y1,y20,-y48]])]
+ArcM===========: []
+LenSNF=37
+LenSNF=22
+SAT: true
+Exist: 0
+...............................................
+SAT:true

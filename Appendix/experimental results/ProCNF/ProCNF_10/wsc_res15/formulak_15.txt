@@ -1,0 +1,13 @@
+P1=[y44,y21,y31,y25,y8,y34,y22,y39,y14,y18,y49,y7,y5,y35,y16]
+T=(y22\/y27\/ -y38)&(-y22\/ -y27\/y34)&(y7\/ -y16\/ -y32)&(-y18\/ -y31\/y35)&(y5\/y21\/y27)&(-y19\/ -y24\/y38)&(y32\/ -y39\/y44)&(-y21\/ -y31\/ -y49)&(-y8\/y9\/y14)&(y7\/ -y25\/y31)
+UsedInf:126343
+UsedTime:0.03351352300000002
+Wall:0.08141493797302246
+Res===========: [formula_ind(start,[start],[[y21,y34,y5,-y22]]),formula_ind(start,[start],[[y31,y7,-y25]]),formula_ind(start,[start],[[y35,-y18,-y31]]),formula_ind(start,[start],[[z]]),formula_ind(start,[start],[[-y21,-y31,-y49]]),formula_ind(true,[true],[[y21,y34,y5,-y22,-z]]),formula_ind(true,[true],[[-z,y7,-y25,y31]]),formula_ind(true,[true],[[-z,-y18,-y31,y35]]),formula_ind(true,[true],[[-z,-y21,-y31,-y49]])]
+ArcM===========: [pair(z,(((-y21\/ -y31\/ -y49)&(y35\/ -y18\/ -y31))&(y31\/y7\/ -y25))&(y21\/y34\/y5\/ -y22))]
+LenSNF=12
+LenSNF=9
+SAT: true
+Exist: 1
+...............................................
+SAT:true

@@ -1,0 +1,13 @@
+P1=[y36,y44,y18,y6,y13,y14,y21,y11,y10,y47,y41,y19,y2,y1,y42,y3,y50,y49,y17,y25,y45,y39,y46,y15,y28,y29,y20,y35,y4,y32]
+T=(-y20\/ -y21\/ -y46)&(-y23\/ -y45\/y50)&(y28\/ -y36\/ -y40)&(-y2\/ -y13\/y45)&(-y5\/y36\/ -y45)&(y4\/y23\/y28)&(-y13\/y29\/y38)&(y18\/ -y27\/y49)&(y21\/y40\/ -y46)&(y1\/y17\/ -y40)&(y3\/y24\/y25)&(-y20\/ -y27\/y39)&(-y4\/ -y25\/y32)&(y12\/ -y28\/y30)&(-y12\/ -y15\/ -y39)&(y17\/y20\/ -y36)&(-y7\/y35\/y38)&(y7\/ -y27\/y42)&(y10\/ -y15\/ -y41)&(y17\/ -y21\/y50)&(-y12\/ -y30\/y44)&(y11\/ -y14\/ -y18)&(y5\/y6\/y10)&(-y3\/ -y10\/y44)&(y19\/ -y35\/ -y40)&(y18\/ -y48\/y49)&(-y12\/y19\/ -y42)&(y4\/y30\/ -y40)&(-y3\/y13\/ -y47)&(-y6\/ -y17\/y28)
+UsedInf:2683134
+UsedTime:0.641146378
+Wall:0.6447160243988037
+Res===========: [formula_ind(start,[start],[[y1,y17,y21,-y46]]),formula_ind(start,[start],[[y10,-y15,-y41]]),formula_ind(start,[start],[[y11,-y14,-y18]]),formula_ind(start,[start],[[y13,-y3,-y47]]),formula_ind(start,[start],[[y17,y20]]),formula_ind(start,[start],[[y17,y50,-y21]]),formula_ind(start,[start],[[y19,y21,-y35,-y46]]),formula_ind(start,[start],[[y21,y28,-y46]]),formula_ind(start,[start],[[y28,y4,y50,-y45]]),formula_ind(start,[start],[[y28,-y17,-y6]]),formula_ind(start,[start],[[y32,-y25,-y4]]),formula_ind(start,[start],[[y44,-y10,-y3]]),formula_ind(start,[start],[[y45,-y13,-y2]]),formula_ind(start,[start],[[z]]),formula_ind(start,[start],[[-y20,-y21,-y46]]),formula_ind(true,[true],[[y1,y17,y21,-y46,-z]]),formula_ind(true,[true],[[y17,y20,-z]]),formula_ind(true,[true],[[y19,y21,-y35,-y46,-z]]),formula_ind(true,[true],[[y21,y28,-y46,-z]]),formula_ind(true,[true],[[y28,y4,y50,-y45,-z]]),formula_ind(true,[true],[[-z,y10,-y15,-y41]]),formula_ind(true,[true],[[-z,y11,-y14,-y18]]),formula_ind(true,[true],[[-z,y17,-y21,y50]]),formula_ind(true,[true],[[-z,-y2,-y13,y45]]),formula_ind(true,[true],[[-z,-y20,-y21,-y46]]),formula_ind(true,[true],[[-z,-y3,y13,-y47]]),formula_ind(true,[true],[[-z,-y3,-y10,y44]]),formula_ind(true,[true],[[-z,-y4,-y25,y32]]),formula_ind(true,[true],[[-z,-y6,-y17,y28]])]
+ArcM===========: [pair(z,(((((((((((((y28\/ -y17\/ -y6)&(y32\/ -y25\/ -y4))&(y44\/ -y10\/ -y3))&(y13\/ -y3\/ -y47))&(-y20\/ -y21\/ -y46))&(y45\/ -y13\/ -y2))&(y17\/y50\/ -y21))&(y11\/ -y14\/ -y18))&(y10\/ -y15\/ -y41))&(y28\/y4\/y50\/ -y45))&(y21\/y28\/ -y46))&(y19\/y21\/ -y35\/ -y46))&(y17\/y20))&(y1\/y17\/y21\/ -y46))]
+LenSNF=32
+LenSNF=29
+SAT: true
+Exist: 1
+...............................................
+SAT:true

@@ -1,0 +1,13 @@
+P1=[y13,y36,y18,y39,y30,y15,y21,y40,y41,y34,y45,y9,y10,y24,y35,y8,y17,y2,y11,y46]
+T=(y4\/y18\/y41)&(y24\/ -y37\/y40)&(-y6\/y24\/ -y46)&(y8\/y15\/y31)&(y11\/y21\/ -y25)&(y13\/y39\/y43)&(-y2\/ -y5\/ -y8)&(-y1\/y31\/ -y45)&(y23\/ -y30\/ -y35)&(-y10\/y41\/y46)&(-y8\/ -y39\/ -y50)&(-y4\/y25\/ -y35)&(-y34\/y36\/ -y47)&(y6\/y19\/ -y48)&(-y9\/ -y17\/ -y37)
+UsedInf:213112
+UsedTime:0.053254808000000015
+Wall:0.053372859954833984
+Res===========: [formula_ind(start,[start],[[y11,y18,y21,y41,-y35]]),formula_ind(start,[start],[[y41,y46,-y10]]),formula_ind(start,[start],[[z]]),formula_ind(true,[true],[[y11,y18,y21,y41,-y35,-z]]),formula_ind(true,[true],[[-z,-y10,y41,y46]])]
+ArcM===========: [pair(z,(y41\/y46\/ -y10)&(y11\/y18\/y21\/y41\/ -y35))]
+LenSNF=17
+LenSNF=5
+SAT: true
+Exist: 1
+...............................................
+SAT:true

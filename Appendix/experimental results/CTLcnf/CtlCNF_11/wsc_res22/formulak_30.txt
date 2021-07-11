@@ -1,0 +1,13 @@
+P1=[y15,y46,y30,y18,y12,y31,y39,y41,y42,y22,y2,y26,y10,y11,y16,y4,y44,y38,y33,y17,y45,y32]
+T=((y4\/ -y28\/ -y43)&(y2\/y41\/ -y42)&(-y6\/ -y48\/ -y49)&(-y15\/y27\/ -y43)&(-y11\/y17\/y47)&(-y20\/ -y31\/y40)&(y14\/y17\/y50)&(y7\/ -y27\/ -y45)&(-y32\/ -y42\/ -y46)&(y4\/ -y32\/y40)&(-y2\/ -y21\/y33))&(~ * ((-y6\/ -y38\/ -y42)&(y7\/ -y43\/y44)&(-y17\/ -y33\/ -y48)&(-y1\/ -y2\/ -y28)&(y10\/ -y16\/ -y20)&(y1\/y17\/y20)&(y5\/y17\/ -y23)&(-y4\/ -y12\/ -y15)&(y1\/y29\/y41)&(y27\/ -y32\/ -y35)&(y18\/ -y39\/y40)))&(^ * ((y27\/ -y43\/y45)&(y6\/ -y13\/ -y22)&(-y3\/y39\/ -y46)&(-y16\/y34\/y44)&(y3\/y18\/ -y30)&(-y6\/y7\/ -y27)&(y1\/y26\/y27)&(y16\/ -y30\/ -y39)&(y7\/ -y31\/y44)&(y10\/ -y31\/y45)&(-y4\/ -y18\/ -y33)))
+UsedInf:6221204
+UsedTime:1.4558653090000002
+Wall:4.200067043304443
+Res===========: [formula_ind(ex,[z],[[x1],[y10,y45,-y31],[y16,-y30,-y39],[y18,y39,-y30,-y46],[-y18,-y33,-y4]]),formula_ind(ax,[z],[[x2]]),formula_ind(ax,[z],[[-y12,-y4,-z]]),formula_ind(start,[start],[[y2,y41,-y42]]),formula_ind(start,[start],[[z]]),formula_ind(start,[start],[[-x2,-y12,-y4]]),formula_ind(start,[start],[[-y32,-y42,-y46]]),formula_ind(true,[true],[[y18,y39,-x1,-y30,-y46]]),formula_ind(true,[true],[[-x1,y10,-y31,y45]]),formula_ind(true,[true],[[-x1,y16,-y30,-y39]]),formula_ind(true,[true],[[-x1,-y4,-y18,-y33]]),formula_ind(true,[true],[[-x2,-y12,-y4,-z]]),formula_ind(true,[true],[[-z,y2,y41,-y42]]),formula_ind(true,[true],[[-z,-y32,-y42,-y46]])]
+ArcM===========: [pair(x1,(((-y18\/ -y33\/ -y4)&(y16\/ -y30\/ -y39))&(y10\/y45\/ -y31))&(y18\/y39\/ -y30\/ -y46))]
+LenSNF=37
+LenSNF=14
+SAT: true
+Exist: 0
+...............................................
+SAT:true

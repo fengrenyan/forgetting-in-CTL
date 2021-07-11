@@ -1,0 +1,13 @@
+P1=[y1,y10,y12,y13,y14,y15,y19,y2,y20,y21,y22,y24,y25,y26,y28,y29,y30,y32,y33,y34,y36,y38,y4,y40,y41,y44,y48,y49,y5,y6,y7]
+T=((y25\/y26\/y33)&(y22\/ -y24\/ -y29)&(y7\/y10\/ -y14)&(-y4\/ -y34\/ -y38)&(-y2\/y19\/y36))&(~ * ((-y26\/y41\/y48)&(y13\/y34\/y38)&(y15\/ -y28\/ -y44)&(-y12\/y15\/ -y28)&(y6\/y12\/ -y33)))&(^ * ((y1\/y4\/ -y33)&(y19\/y24\/ -y40)&(-y5\/ -y40\/ -y44)&(y20\/ -y30\/ -y32)&(y7\/y21\/y49)))
+UsedInf:47782
+UsedTime:0.007246362999999992
+Wall:0.007265806198120117
+Res===========: [formula_ind(ex,[z],[[x1],[y19,y24,-y40],[y20,-y30,-y32],[y21,y49,y7],[-y40,-y44,-y5]]),formula_ind(ax,[z],[[x2]]),formula_ind(ax,[z],[[y12,y6,-y33]]),formula_ind(ax,[z],[[y13,y34,y38]]),formula_ind(ax,[z],[[y15,-y12,-y28]]),formula_ind(ax,[z],[[y15,-y28,-y44]]),formula_ind(ax,[z],[[y41,y48,-y26]]),formula_ind(start,[start],[[y10,y7,-y14]]),formula_ind(start,[start],[[y19,y36,-y2]]),formula_ind(start,[start],[[y22,-y24,-y29]]),formula_ind(start,[start],[[y25,y26,y33]]),formula_ind(start,[start],[[z]]),formula_ind(start,[start],[[-y34,-y38,-y4]]),formula_ind(true,[true],[[-x1,y19,y24,-y40]]),formula_ind(true,[true],[[-x1,y20,-y30,-y32]]),formula_ind(true,[true],[[-x1,y7,y21,y49]]),formula_ind(true,[true],[[-x1,-y5,-y40,-y44]]),formula_ind(true,[true],[[-x2,y13,y34,y38]]),formula_ind(true,[true],[[-x2,y15,-y28,-y44]]),formula_ind(true,[true],[[-x2,y6,y12,-y33]]),formula_ind(true,[true],[[-x2,-y12,y15,-y28]]),formula_ind(true,[true],[[-x2,-y26,y41,y48]]),formula_ind(true,[true],[[-z,y22,-y24,-y29]]),formula_ind(true,[true],[[-z,y25,y26,y33]]),formula_ind(true,[true],[[-z,y7,y10,-y14]]),formula_ind(true,[true],[[-z,-y2,y19,y36]]),formula_ind(true,[true],[[-z,-y4,-y34,-y38]])]
+ArcM===========: [pair(z,(((((((((((-y34\/ -y38\/ -y4)&(y19\/y36\/ -y2))&(y10\/y7\/ -y14))&(y25\/y26\/y33))&(y22\/ -y24\/ -y29))&(~ * (y41\/y48\/ -y26)))&(~ * (y15\/ -y28\/ -y44)))&(~ * (y15\/ -y12\/ -y28)))&(~ * (y13\/y34\/y38)))&(~ * (y12\/y6\/ -y33)))&(~ *x2))&(^ * (x1&(y19\/y24\/ -y40)&(y20\/ -y30\/ -y32)&(y21\/y49\/y7)&(-y40\/ -y44\/ -y5)))),pair(x1,(((-y40\/ -y44\/ -y5)&(y21\/y49\/y7))&(y20\/ -y30\/ -y32))&(y19\/y24\/ -y40)),pair(x2,((((y41\/y48\/ -y26)&(y15\/ -y12\/ -y28))&(y12\/y6\/ -y33))&(y15\/ -y28\/ -y44))&(y13\/y34\/y38))]
+LenSNF=19
+LenSNF=27
+SAT: true
+Exist: 1
+...............................................
+SAT:true

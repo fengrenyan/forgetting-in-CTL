@@ -1,0 +1,13 @@
+P1=[y49,y27,y36,y41,y21,y7,y33,y44,y46,y1,y14,y43,y19,y8,y5,y3,y32,y25,y38,y16]
+T=(-y23\/ -y30\/ -y44)&(-y19\/y30\/y50)&(y26\/y38\/y42)&(y5\/y42\/y43)&(-y14\/y32\/ -y33)&(y15\/ -y29\/y36)&(y3\/y18\/ -y26)&(y25\/ -y41\/y44)&(-y8\/y19\/y44)&(y12\/y35\/ -y49)&(-y14\/y46\/y49)&(-y7\/y16\/ -y23)&(y4\/y15\/y46)&(y11\/y43\/y45)&(-y26\/y29\/ -y39)&(-y20\/ -y27\/ -y41)&(-y13\/y31\/y49)&(-y1\/ -y7\/ -y49)&(y12\/y16\/ -y44)&(-y11\/y21\/y31)
+UsedInf:622976
+UsedTime:0.148556978
+Wall:0.15282678604125977
+Res===========: [formula_ind(start,[start],[[y19,y44,-y8]]),formula_ind(start,[start],[[y25,y44,-y41]]),formula_ind(start,[start],[[y32,-y14,-y33]]),formula_ind(start,[start],[[z]]),formula_ind(start,[start],[[-y1,-y7]]),formula_ind(true,[true],[[-y1,-y7,-z]]),formula_ind(true,[true],[[-z,y25,-y41,y44]]),formula_ind(true,[true],[[-z,-y14,y32,-y33]]),formula_ind(true,[true],[[-z,-y8,y19,y44]])]
+ArcM===========: [pair(z,(((y19\/y44\/ -y8)&(y32\/ -y14\/ -y33))&(y25\/y44\/ -y41))&(-y1\/ -y7))]
+LenSNF=22
+LenSNF=9
+SAT: true
+Exist: 1
+...............................................
+SAT:true

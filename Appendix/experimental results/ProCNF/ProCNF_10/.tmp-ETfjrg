@@ -1,0 +1,2 @@
+#! /bin/bash 
+./comwsc formulak_3 30 1 wsc_res

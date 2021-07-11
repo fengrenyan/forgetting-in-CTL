@@ -1,0 +1,13 @@
+P1=[y11,y28,y45,y4,y37,y17,y42,y35,y47,y26,y24,y27,y1,y3,y32,y49,y20,y31,y15,y50,y6,y5,y19,y2,y13,y12,y25,y44,y48,y7]
+T=((y25\/ -y33\/y35)&(y17\/ -y27\/y37)&(-y19\/ -y33\/ -y47)&(-y25\/ -y28\/y29)&(y1\/ -y28\/ -y49)&(-y11\/ -y29\/ -y47)&(-y7\/y45\/y50)&(-y4\/y5\/ -y20))&(~ * ((y1\/ -y31\/y49)&(-y17\/y24\/y42)&(-y2\/y18\/ -y39)&(y19\/y37\/ -y44)&(-y6\/y7\/ -y25)&(-y24\/ -y25\/y48)&(-y12\/ -y27\/ -y39)&(-y20\/y24\/y45)))&(^ * ((-y11\/y12\/y24)&(-y25\/ -y35\/y44)&(y3\/y21\/ -y24)&(-y5\/ -y25\/y45)&(y15\/y21\/y32)&(-y10\/y19\/y26)&(-y13\/ -y40\/y42)&(-y24\/ -y33\/y49)))
+UsedInf:252147
+UsedTime:0.06094285999999999
+Wall:0.13939714431762695
+Res===========: [formula_ind(ex,[z],[[x1],[y12,y24,-z],[y44,-y25,-y35],[y45,-y25,-y5]]),formula_ind(ax,[z],[[x2]]),formula_ind(ax,[z],[[y1,y49,-y31]]),formula_ind(ax,[z],[[y19,y37,-y44]]),formula_ind(ax,[z],[[y24,y42,-y17]]),formula_ind(ax,[z],[[y24,y45,-y20]]),formula_ind(ax,[z],[[y48,-y24,-y25]]),formula_ind(ax,[z],[[y7,-y25,-y6]]),formula_ind(start,[start],[[y1,-y28,-y49]]),formula_ind(start,[start],[[y12,y24,-x1]]),formula_ind(start,[start],[[y17,y37,-y27]]),formula_ind(start,[start],[[y45,y50,-y7]]),formula_ind(start,[start],[[y5,-y20,-y4]]),formula_ind(start,[start],[[z]]),formula_ind(start,[start],[[-y25,-y28,-y47]]),formula_ind(true,[true],[[y12,y24,-x1,-z]]),formula_ind(true,[true],[[-x1,-y25,-y35,y44]]),formula_ind(true,[true],[[-x1,-y5,-y25,y45]]),formula_ind(true,[true],[[-x2,y1,-y31,y49]]),formula_ind(true,[true],[[-x2,y19,y37,-y44]]),formula_ind(true,[true],[[-x2,-y17,y24,y42]]),formula_ind(true,[true],[[-x2,-y20,y24,y45]]),formula_ind(true,[true],[[-x2,-y24,-y25,y48]]),formula_ind(true,[true],[[-x2,-y6,y7,-y25]]),formula_ind(true,[true],[[-y25,-y28,-y47,-z]]),formula_ind(true,[true],[[-z,y1,-y28,-y49]]),formula_ind(true,[true],[[-z,y17,-y27,y37]]),formula_ind(true,[true],[[-z,-y4,y5,-y20]]),formula_ind(true,[true],[[-z,-y7,y45,y50]])]
+ArcM===========: [pair(x2,(((((y7\/ -y25\/ -y6)&(y48\/ -y24\/ -y25))&(y24\/y45\/ -y20))&(y24\/y42\/ -y17))&(y19\/y37\/ -y44))&(y1\/y49\/ -y31))]
+LenSNF=28
+LenSNF=29
+SAT: true
+Exist: 0
+...............................................
+SAT:true

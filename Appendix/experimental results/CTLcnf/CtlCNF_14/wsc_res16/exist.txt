@@ -1,0 +1,10 @@
+Exist: 1
+   formula_14
+Exist: 0
+   formula_16
+Exist: 1
+   formula_20
+Exist: 0
+   formula_34
+Exist: 0
+   formula_36

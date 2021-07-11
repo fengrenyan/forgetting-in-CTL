@@ -1,0 +1,13 @@
+P1=[y4,y26,y34,y11,y42,y13,y15,y6,y21,y2,y50,y8,y16,y25,y40,y7,y32,y30,y28,y48,y23,y47,y49]
+T=((-y1\/y37\/ -y49)&(y17\/y20\/y50)&(-y2\/ -y16\/ -y25)&(y1\/y19\/ -y44)&(y28\/ -y32\/y35)&(y12\/y29\/ -y44)&(y1\/y16\/ -y34)&(y24\/ -y36\/y48)&(y14\/ -y21\/ -y42)&(-y8\/ -y28\/y33)&(-y6\/y34\/y44)&(y2\/ -y12\/y17))&(~ * ((-y19\/ -y26\/ -y32)&(-y34\/ -y35\/y49)&(y26\/y28\/ -y36)&(-y11\/ -y24\/y47)&(y1\/y6\/ -y38)&(-y23\/y25\/y50)&(-y5\/ -y31\/ -y46)&(y16\/y39\/y40)&(-y4\/ -y22\/ -y30)&(y11\/y15\/ -y32)&(y22\/y23\/ -y29)&(y13\/ -y22\/ -y28)))&(^ * ((y17\/ -y20\/ -y44)&(-y27\/y29\/ -y36)&(y34\/ -y39\/ -y42)&(y5\/ -y7\/ -y11)&(y4\/ -y6\/ -y14)&(-y15\/y21\/ -y31)&(-y6\/ -y20\/ -y28)&(-y17\/ -y33\/ -y35)&(y4\/ -y30\/y34)&(-y22\/ -y38\/y48)&(y7\/y23\/ -y34)&(y22\/ -y44\/y49)))
+UsedInf:1486365517
+UsedTime:356.41705921
+Wall:644.4640040397644
+Res===========: [formula_ind(ex,[z],[[x1],[y13,y34,y49,-x2,-y28,-y6,-z],[y13,y34,y49,-y28,-y6,-z],[y16,y34,y40,-x2,-y42],[y16,y34,y40,-y42],[y23,y7,-y34],[y34,y49,-x2,-y30,-y6,-z],[y34,y49,-y30,-y6,-z]]),formula_ind(ax,[z],[[x2]]),formula_ind(ax,[z],[[y11,y15,-y32]]),formula_ind(ax,[z],[[y13,y34,y49,-x1,-y28,-y6,-z]]),formula_ind(ax,[z],[[y16,y34,y40,-x1,-y42]]),formula_ind(ax,[z],[[y25,y50,-y23]]),formula_ind(ax,[z],[[y28,y49,-y32,-y34,-z]]),formula_ind(ax,[z],[[y34,y49,-x1,-y30,-y6,-z]]),formula_ind(start,[start],[[y13,y34,y49,-x1,-x2,-y28,-y6]]),formula_ind(start,[start],[[y28,y49,-x2,-y32,-y34]]),formula_ind(start,[start],[[y34,y49,-x1,-x2,-y30,-y6]]),formula_ind(start,[start],[[z]]),formula_ind(start,[start],[[-y16,-y2,-y25]]),formula_ind(true,[true],[[y13,y34,y49,-x1,-x2,-y28,-y6,-z]]),formula_ind(true,[true],[[y16,y34,y40,-x1,-x2,-y42]]),formula_ind(true,[true],[[y28,y49,-x2,-y32,-y34,-z]]),formula_ind(true,[true],[[y34,y49,-x1,-x2,-y30,-y6,-z]]),formula_ind(true,[true],[[-x1,y7,y23,-y34]]),formula_ind(true,[true],[[-x2,y11,y15,-y32]]),formula_ind(true,[true],[[-x2,-y23,y25,y50]]),formula_ind(true,[true],[[-z,-y2,-y16,-y25]])]
+ArcM===========: []
+LenSNF=40
+LenSNF=21
+SAT: true
+Exist: 0
+...............................................
+SAT:true

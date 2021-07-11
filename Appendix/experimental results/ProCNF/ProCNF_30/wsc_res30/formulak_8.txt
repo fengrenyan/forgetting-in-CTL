@@ -1,0 +1,13 @@
+P1=[y38,y47,y32,y49,y44,y41,y25,y28,y34,y35,y36,y45,y40,y11,y50,y17,y3,y15,y46,y12,y48,y9,y21,y24,y43,y27,y30,y33,y26,y7]
+T=(y17\/y21\/y44)&(-y13\/ -y30\/y33)&(-y5\/y7\/ -y50)&(y8\/ -y26\/ -y33)&(y9\/ -y38\/ -y43)&(y3\/ -y13\/ -y49)&(y7\/ -y22\/ -y37)&(-y8\/y27\/ -y48)&(-y3\/y7\/y50)&(y17\/ -y24\/y36)&(y27\/y28\/y42)&(-y7\/ -y30\/y32)&(y24\/y34\/ -y47)&(-y14\/y32\/y35)&(-y6\/y15\/ -y43)&(y35\/ -y37\/y41)&(y28\/ -y37\/ -y40)&(y8\/ -y25\/y38)&(-y6\/y16\/ -y18)&(-y37\/y38\/ -y49)&(y6\/ -y22\/y32)&(-y38\/ -y43\/ -y47)&(y8\/ -y37\/y49)&(-y15\/y24\/y31)&(y5\/ -y38\/ -y47)&(y8\/ -y11\/y27)&(-y20\/y36\/ -y45)&(-y5\/y14\/y48)&(y44\/ -y46\/y50)&(-y3\/y12\/y45)
+UsedInf:2510591
+UsedTime:0.5840725019999999
+Wall:0.5851435661315918
+Res===========: [formula_ind(start,[start],[[y12,y45,-y3]]),formula_ind(start,[start],[[y17,y21,y44]]),formula_ind(start,[start],[[y17,y36,-y24]]),formula_ind(start,[start],[[y24,y34,-y47]]),formula_ind(start,[start],[[y27,-y11,-y48]]),formula_ind(start,[start],[[y27,-y26,-y33,-y48]]),formula_ind(start,[start],[[y32,y35,y48,-y47]]),formula_ind(start,[start],[[y32,-y30,-y7]]),formula_ind(start,[start],[[y44,y50,-y46]]),formula_ind(start,[start],[[y50,y7,-y3]]),formula_ind(start,[start],[[y7,-y47,-y50]]),formula_ind(start,[start],[[y9,-y43]]),formula_ind(start,[start],[[z]]),formula_ind(start,[start],[[-y43,-y47]]),formula_ind(true,[true],[[y27,-y11,-y48,-z]]),formula_ind(true,[true],[[y27,-y26,-y33,-y48,-z]]),formula_ind(true,[true],[[y32,y35,y48,-y47,-z]]),formula_ind(true,[true],[[y7,-y47,-y50,-z]]),formula_ind(true,[true],[[y9,-y43,-z]]),formula_ind(true,[true],[[-y43,-y47,-z]]),formula_ind(true,[true],[[-z,y17,y21,y44]]),formula_ind(true,[true],[[-z,y17,-y24,y36]]),formula_ind(true,[true],[[-z,y24,y34,-y47]]),formula_ind(true,[true],[[-z,y44,-y46,y50]]),formula_ind(true,[true],[[-z,-y3,y12,y45]]),formula_ind(true,[true],[[-z,-y3,y7,y50]]),formula_ind(true,[true],[[-z,-y7,-y30,y32]])]
+ArcM===========: [pair(z,((((((((((((y32\/ -y30\/ -y7)&(y50\/y7\/ -y3))&(y12\/y45\/ -y3))&(y44\/y50\/ -y46))&(y24\/y34\/ -y47))&(y17\/y36\/ -y24))&(y17\/y21\/y44))&(-y43\/ -y47))&(y9\/ -y43))&(y7\/ -y47\/ -y50))&(y32\/y35\/y48\/ -y47))&(y27\/ -y26\/ -y33\/ -y48))&(y27\/ -y11\/ -y48))]
+LenSNF=32
+LenSNF=27
+SAT: true
+Exist: 1
+...............................................
+SAT:true

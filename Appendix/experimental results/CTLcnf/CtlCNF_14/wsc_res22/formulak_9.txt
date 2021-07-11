@@ -1,0 +1,13 @@
+P1=[y20,y47,y34,y32,y39,y50,y8,y9,y23,y35,y24,y15,y28,y11,y17,y13,y43,y42,y26,y3,y14,y44]
+T=((y10\/y13\/ -y18)&(-y17\/ -y26\/y28)&(-y24\/y33\/ -y36)&(-y9\/ -y15\/y49)&(-y8\/y14\/ -y34)&(-y3\/ -y23\/ -y30)&(-y2\/y29\/y50)&(-y23\/y40\/y45)&(-y15\/y20\/ -y24)&(y6\/ -y36\/ -y48)&(-y2\/ -y20\/ -y48)&(-y9\/ -y26\/ -y28)&(-y3\/ -y33\/ -y34)&(-y4\/y39\/y48))&(~ * ((y28\/ -y36\/y39)&(y15\/y18\/ -y34)&(y4\/y15\/y39)&(y2\/y23\/y25)&(-y18\/ -y30\/ -y47)&(y14\/y21\/y44)&(y46\/y47\/y48)&(y10\/ -y23\/y37)&(-y24\/y44\/ -y46)&(-y33\/ -y42\/ -y48)&(y11\/y15\/ -y25)&(-y31\/y35\/ -y37)&(-y20\/y27\/y41)&(-y2\/ -y4\/y39)))&(^ * ((y16\/ -y35\/y40)&(-y31\/y32\/ -y37)&(-y5\/y47\/ -y50)&(-y5\/ -y13\/y17)&(y14\/y29\/y31)&(y5\/y30\/ -y40)&(y7\/y10\/y48)&(-y29\/ -y43\/y45)&(-y6\/y13\/ -y48)&(y28\/ -y37\/y41)&(-y4\/y7\/ -y17)&(y28\/y39\/ -y42)&(y4\/y21\/ -y24)&(y17\/ -y23\/y46)))
+UsedInf:269030812
+UsedTime:63.202044613999995
+Wall:102.54039406776428
+Res===========: [formula_ind(ex,[z],[[x1],[y17,y44,-x2,-y23,-y24],[y17,y44,-y23,-y24],[y28,y39,-y42]]),formula_ind(ax,[z],[[x2]]),formula_ind(ax,[z],[[y11,y15,y23,y39]]),formula_ind(ax,[z],[[y11,y15,y23,y39,-z]]),formula_ind(ax,[z],[[y11,y15,y23,y44,y47,-y24,-z]]),formula_ind(ax,[z],[[y17,y44,-x1,-y23,-y24]]),formula_ind(start,[start],[[y11,y15,y23,y39,-x2]]),formula_ind(start,[start],[[y11,y15,y23,y44,y47,-x2,-y24]]),formula_ind(start,[start],[[y14,-y34,-y8]]),formula_ind(start,[start],[[y28,-y17,-y26]]),formula_ind(start,[start],[[z]]),formula_ind(start,[start],[[-y26,-y28,-y9]]),formula_ind(true,[true],[[y11,y15,y23,y39,-x2]]),formula_ind(true,[true],[[y11,y15,y23,y39,-x2,-z]]),formula_ind(true,[true],[[y11,y15,y23,y44,y47,-x2,-y24,-z]]),formula_ind(true,[true],[[y17,y44,-x1,-x2,-y23,-y24]]),formula_ind(true,[true],[[-x1,y28,y39,-y42]]),formula_ind(true,[true],[[-z,-y17,-y26,y28]]),formula_ind(true,[true],[[-z,-y8,y14,-y34]]),formula_ind(true,[true],[[-z,-y9,-y26,-y28]])]
+ArcM===========: []
+LenSNF=46
+LenSNF=20
+SAT: true
+Exist: 0
+...............................................
+SAT:true

@@ -1,0 +1,13 @@
+P1=[y28,y50,y22,y33,y46,y15,y48,y4,y7,y8,y38,y40,y43,y41,y5,y12,y13,y31,y47,y42,y32,y18]
+T=((-y6\/y22\/y39)&(y12\/ -y16\/ -y41)&(-y12\/ -y18\/ -y46)&(-y30\/ -y33\/y41)&(y12\/y32\/y44)&(y34\/ -y37\/ -y48)&(y18\/y37\/y43)&(y28\/ -y38\/y43)&(-y8\/ -y37\/ -y47)&(y5\/y18\/y43)&(-y2\/y5\/y42))&(~ * ((y20\/y28\/y50)&(y16\/ -y33\/y46)&(-y1\/y9\/ -y33)&(-y16\/y40\/ -y42)&(-y7\/y39\/ -y49)&(y5\/ -y38\/y44)&(y22\/y25\/y46)&(-y9\/y21\/ -y31)&(y6\/y9\/ -y30)&(-y18\/y33\/ -y38)&(-y12\/ -y28\/y48)))&(^ * ((-y4\/y20\/ -y32)&(-y3\/ -y7\/ -y22)&(y13\/y30\/ -y37)&(-y3\/ -y25\/y29)&(y1\/y4\/y20)&(-y4\/y20\/y43)&(y28\/y31\/y43)&(-y7\/y9\/y40)&(y13\/y33\/ -y34)&(y8\/y15\/ -y42)&(y2\/ -y10\/ -y12)))
+UsedInf:8076274
+UsedTime:1.7760977169999999
+Wall:3.5675673484802246
+Res===========: [formula_ind(ex,[z],[[x1],[y13,y18,y33,y43,-y48,-z],[y13,y18,y41,y43,-y33,-z],[y15,y8,-y42],[y31,y43,y48,-x2,-y12],[y31,y43,y48,-y12]]),formula_ind(ax,[z],[[x2]]),formula_ind(ax,[z],[[y12,y46,-y33,-y41,-z]]),formula_ind(ax,[z],[[y31,y43,y48,-x1,-y12]]),formula_ind(ax,[z],[[y33,-y18,-y38]]),formula_ind(ax,[z],[[y40,y46,-y33,-y42]]),formula_ind(ax,[z],[[y48,-y12,-z]]),formula_ind(start,[start],[[y12,y46,-x2,-y33,-y41]]),formula_ind(start,[start],[[y13,y18,y33,y43,-x1,-y48]]),formula_ind(start,[start],[[y13,y18,y41,y43,-x1,-y33]]),formula_ind(start,[start],[[y18,y43,y5]]),formula_ind(start,[start],[[y18,y43,-y47,-y8]]),formula_ind(start,[start],[[y48,-x2,-y12]]),formula_ind(start,[start],[[z]]),formula_ind(start,[start],[[-y12,-y18,-y46]]),formula_ind(true,[true],[[y12,y46,-x2,-y33,-y41,-z]]),formula_ind(true,[true],[[y13,y18,y33,y43,-x1,-y48,-z]]),formula_ind(true,[true],[[y13,y18,y41,y43,-x1,-y33,-z]]),formula_ind(true,[true],[[y18,y43,-y47,-y8,-z]]),formula_ind(true,[true],[[y31,y43,y48,-x1,-x2,-y12]]),formula_ind(true,[true],[[y40,y46,-x2,-y33,-y42]]),formula_ind(true,[true],[[y48,-x2,-y12,-z]]),formula_ind(true,[true],[[-x1,y8,y15,-y42]]),formula_ind(true,[true],[[-x2,-y18,y33,-y38]]),formula_ind(true,[true],[[-z,y5,y18,y43]]),formula_ind(true,[true],[[-z,-y12,-y18,-y46]])]
+ArcM===========: []
+LenSNF=37
+LenSNF=26
+SAT: true
+Exist: 0
+...............................................
+SAT:true

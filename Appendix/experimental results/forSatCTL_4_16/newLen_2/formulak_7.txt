@@ -1,2 +1,0 @@
-UsedTime:1.6256530399999998
-SAT:false
